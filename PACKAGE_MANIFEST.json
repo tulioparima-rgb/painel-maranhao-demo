@@ -1,0 +1,114 @@
+{
+  "files": [
+    {
+      "path": ".streamlit/config.toml",
+      "bytes": 246,
+      "sha256": "ce23dddab9f95af6abde09ec40d1ef2fb32ac3d1c5fef45c0bb8f7bfffe23c96"
+    },
+    {
+      "path": "backend/__init__.py",
+      "bytes": 53,
+      "sha256": "55c363555e14fa4ed1de6b564917a7e4d7b95e7fc15185d477693c83b073f165"
+    },
+    {
+      "path": "backend/config.py",
+      "bytes": 723,
+      "sha256": "8a5153c66e5b9485ede9fc2269fa46e4f28b4c7d4f9cd4e217b25f7cd1aa0afe"
+    },
+    {
+      "path": "backend/data_loader.py",
+      "bytes": 1654,
+      "sha256": "a052d078e3d960166e5ee6312238c3c814681a4af7260f9636ac71fecf93a7ef"
+    },
+    {
+      "path": "backend/transformations.py",
+      "bytes": 49347,
+      "sha256": "a8dceb79bb2aa9bfd3db13985d6fd893c0f72f8597968d71cf725add86396329"
+    },
+    {
+      "path": "backend/validators.py",
+      "bytes": 3365,
+      "sha256": "75e166037a9b343901e2d97b9abca6d0dc898d7e21ca561e73aaa81b12e145a5"
+    },
+    {
+      "path": "frontend/__init__.py",
+      "bytes": 48,
+      "sha256": "a17625b948358ab60943d3f1448e3eed85b2d03e47d4b8d9b556c2131e75cfe3"
+    },
+    {
+      "path": "frontend/app.py",
+      "bytes": 2628,
+      "sha256": "c7d1004f9a10d3e7a4f08e3c4a7dc0289dfc129445bcb9b837386fe29eb40955"
+    },
+    {
+      "path": "frontend/components.py",
+      "bytes": 32125,
+      "sha256": "abbb337190fa0e26dacd22933974fb3d243b108b4540d00bb9c604cbcfb9e593"
+    },
+    {
+      "path": "frontend/views.py",
+      "bytes": 44295,
+      "sha256": "44bb74390d0558784466528783165fefbaa4ff8bba7cb476dfdd7d927d911e91"
+    },
+    {
+      "path": "public_data/actuarial.json",
+      "bytes": 15868,
+      "sha256": "4e5a2e614fdf83db194993321daddc13615bbae6beb9cefca07cc117f553b05f"
+    },
+    {
+      "path": "public_data/actuarial_balances.json",
+      "bytes": 2279,
+      "sha256": "6dedfa98796d9f13b7140395b1d120c59e970eb0eec0b9d31b8bccdf971f04e3"
+    },
+    {
+      "path": "public_data/contribution_rates.json",
+      "bytes": 2269,
+      "sha256": "0359f1d83010ace49753bbb1b2bbd84c6a83cb4aa27362d2e386b18c76f804b8"
+    },
+    {
+      "path": "public_data/fiscal.json",
+      "bytes": 10336,
+      "sha256": "7b7dd7aaf51f741abff5ecfff6c0b19087452d62ea67e248d935926d10df835f"
+    },
+    {
+      "path": "public_data/fiscal_projection_assumptions.json",
+      "bytes": 2850,
+      "sha256": "e9bc642d1339fbcbafc4d416bcbaa98ca42001b30508a26a048dbdd568c50aea"
+    },
+    {
+      "path": "public_data/fiscal_projections.json",
+      "bytes": 23043,
+      "sha256": "2b1573f8cbf9044c2ec353a8ccbdbccfb44f430dc92d033e41a06652829c2706"
+    },
+    {
+      "path": "public_data/fiscal_series.json",
+      "bytes": 83369,
+      "sha256": "c071e4d78c94b22a8e4b4ffccea99a7c3d9c4704e04bb1f0ba3646ca7c11db97"
+    },
+    {
+      "path": "public_data/flows.json",
+      "bytes": 685534,
+      "sha256": "676768785b1048d190f30c32dedf8cb9d4e8b3962b3b5a7d6d6ea9cca35706c2"
+    },
+    {
+      "path": "public_data/releases.json",
+      "bytes": 484,
+      "sha256": "e7c49b4cb15196611d33871c705d0a91c63a9524cddc9c605da42f0770778e95"
+    },
+    {
+      "path": "PUBLIC_DATA_MANIFEST.json",
+      "bytes": 5331,
+      "sha256": "3757564959abee0449e54117ff4e2beea3fb4282d017d4018c24d561b8bac8e3"
+    },
+    {
+      "path": "README.md",
+      "bytes": 321,
+      "sha256": "1a029d2b7418f6ee809ec53321d7b678213554b6b2d7adb47480633bb6f318c7"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 65,
+      "sha256": "436362b399d4d265a8bf7ff6a9f0bb7dada5bd6924883013007d87c246332ef1"
+    }
+  ]
+}
